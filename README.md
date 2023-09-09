@@ -30,3 +30,10 @@ using `data/dataset-b.txt`.
 To submit your project solution, we prefer that you create a branch from the main repository in order to work on your solution. 
 Once you have completed your solution, please create a pull request (PR) for review. This will allow our team to easily review 
 your code changes and if necessary provide feedback. Thank you for your cooperation in following these submission guidelines.
+
+
+
+##**keypoints**
+- make sure the directory of the date file in main.rs is correct. (i commented it using //file path)
+- make sure the toml file in the main project (not the crate one) points towards the the crate inorder to make use of the crate we created.
+- i heavily used chatgpt, google, for everything (yes, even to make this pull request).
